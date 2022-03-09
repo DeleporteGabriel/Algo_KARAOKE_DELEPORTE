@@ -132,3 +132,5 @@ print("Joueur avec le meilleur score toutes chansons confondu :")
 print(Main.meilleurScoreTout())
 print("Joueur avec la meilleure moyenne :")
 print(Main.meilleureMoyenne())
+
+#bonjour tout le monde
